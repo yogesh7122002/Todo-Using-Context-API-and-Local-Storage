@@ -2,14 +2,13 @@
 
 This is a simple Todo application built with **React**. It allows users to add, edit, delete, and mark tasks as completed. The app uses **React Context API** for state management and **Local Storage** to persist todos across page reloads.
 
-#Live Preview
+## Live Preview
 
-     ```bash
-    https://daily-digest-todo.netlify.app/
-    ```
+You can view a live demo of the application here:
+
+[Live Preview](https://daily-digest-todo.netlify.app/)
 
 ## Features
-
 
 - **Add New Todos:** Users can add new tasks to their todo list.
 - **Edit Todos:** Users can edit existing todos.
@@ -20,10 +19,10 @@ This is a simple Todo application built with **React**. It allows users to add, 
 
 ## Technologies Used
 
-- **React**: For building the user interface.
-- **React Context API**: For state management.
-- **Local Storage**: For persisting todos.
-- **Tailwind CSS**: For styling (optional).
+- **React:** For building the user interface.
+- **React Context API:** For state management.
+- **Local Storage:** For persisting todos.
+- **Tailwind CSS:** For styling (optional).
 
 ## Installation
 
@@ -83,4 +82,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [React](https://reactjs.org/) - For the core framework.
 - [Tailwind CSS](https://tailwindcss.com/) - For styling (optional).
-
